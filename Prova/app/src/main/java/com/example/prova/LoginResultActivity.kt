@@ -2,7 +2,7 @@ package com.example.prova
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.danielegiarratano.prova.databinding.ActivityLoginResultBinding
+import com.example.prova.databinding.ActivityLoginResultBinding
 
 class LoginResultActivity : AppCompatActivity() {
     private lateinit var binding: ActivityLoginResultBinding

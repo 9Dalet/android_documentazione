@@ -9,7 +9,6 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.danielegiarratano.prova.R
 import com.squareup.picasso.Picasso
 
 class ItemAdapter(private val list: List<ItemViewModel>) : RecyclerView.Adapter<ItemAdapter.ItemViewHolder>() {

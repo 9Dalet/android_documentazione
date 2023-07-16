@@ -3,8 +3,7 @@ package com.example.prova
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.OnBackPressedCallback
-import com.danielegiarratano.prova.R
-import com.danielegiarratano.prova.databinding.ActivityDetailBinding
+import com.example.prova.databinding.ActivityDetailBinding
 import com.squareup.picasso.Picasso
 
 class DetailActivity : AppCompatActivity() {

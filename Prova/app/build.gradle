@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.danielegiarratano.prova'
+    namespace 'com.example.prova'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.danielegiarratano.prova"
+        applicationId "com.example.prova"
         minSdk 26
         targetSdk 33
         versionCode 1

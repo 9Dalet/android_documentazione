@@ -3,8 +3,7 @@ package com.example.prova
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.danielegiarratano.prova.R
-import com.danielegiarratano.prova.databinding.ActivityMainBinding
+import com.example.prova.databinding.ActivityMainBinding
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 
